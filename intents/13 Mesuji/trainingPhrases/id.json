@@ -1,0 +1,35 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "tigabelas",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "tiga belas",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "13",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "Mesuji",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "c632aeab-494a-4c38-a3ca-ff4d2ce60149",
+  "displayName": "Oke",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "currency-name",
+    "entityType": "@sys.currency-name"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 10
+}

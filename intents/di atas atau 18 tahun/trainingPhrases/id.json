@@ -1,0 +1,419 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "70",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "69",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "68",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "67",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "65",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "64",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "63",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "62",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "61",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "60",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "59",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "58",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "57",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "56",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "55",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "54",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "53",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "52",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "51",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "50",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "49",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "48",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "47",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "46",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "45",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "44",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "43",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "42",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "41",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "40",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "39",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "38",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "37",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "36",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "35",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "34",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "33",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "32",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "31",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "30",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "29",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "28",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "27",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "26",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "25",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "24",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "23",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "22",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "21",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "20",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "19",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "18",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  } ]
+}

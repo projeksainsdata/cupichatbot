@@ -1,0 +1,16 @@
+{
+  "name": "f8ba2ceb-1ee0-49b1-b45a-d3d813c44821",
+  "displayName": "15 Pesisir Barat",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 5
+}

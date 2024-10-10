@@ -1,0 +1,10 @@
+{
+  "name": "85a06090-4a05-4026-8224-91dc9ec0e360",
+  "displayName": "semua angka",
+  "parameters": [ {
+    "id": "angka",
+    "entityType": "@angka"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

@@ -1,0 +1,13 @@
+{
+  "name": "3be9cfac-2a01-4a8e-ad0b-a16a12367906",
+  "displayName": "8 Way Kanan",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 3
+}

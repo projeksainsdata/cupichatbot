@@ -1,0 +1,33 @@
+{
+  "name": "1fe5dbfb-a77d-4361-a200-4801126a14b4",
+  "displayName": "IC",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Apakah kakak setuju untuk mengikuti penilaian risiko terhadap IMS? ( Ya / Tidak )" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "Ya",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Umur",
+    "name": "634cb290-b9e0-4dc7-9152-9a2accf57f7a"
+  }, {
+    "intent": "Tidak",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Thanks",
+    "name": "e8a3488c-74f3-4606-8fba-60d201f71c28"
+  } ]
+}

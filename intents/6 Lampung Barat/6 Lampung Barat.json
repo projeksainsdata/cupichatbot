@@ -1,0 +1,13 @@
+{
+  "name": "43a441b8-2dad-4897-ae77-99c4d8350a16",
+  "displayName": "6 Lampung Barat",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

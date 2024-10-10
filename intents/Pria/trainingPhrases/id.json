@@ -1,0 +1,58 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "👦",
+      "parameterId": "currency-name",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "laki",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "male",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "boy",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "laki-laki",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "man",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "pria",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  } ]
+}

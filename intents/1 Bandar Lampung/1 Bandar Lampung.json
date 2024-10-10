@@ -1,0 +1,16 @@
+{
+  "name": "a6d7ae29-579a-4cf8-8032-14738966ee58",
+  "displayName": "1 Bandar Lampung",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

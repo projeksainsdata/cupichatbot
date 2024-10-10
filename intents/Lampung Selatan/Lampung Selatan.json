@@ -1,0 +1,13 @@
+{
+  "name": "08c1e23f-9d8d-48ac-9278-c2640e18a7f0",
+  "displayName": "Lampung Selatan",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 2
+}

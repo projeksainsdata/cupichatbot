@@ -1,0 +1,54 @@
+{
+  "name": "2625b3fa-e59b-4aed-a0d1-091698bbf0a3",
+  "displayName": "Jenis Kelamin",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "CuPI harus mengetahui jenis kelamin kakak untuk menentukan tanda dan gejala yang lebih spesifik." ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "Apa jenis kelamin kakak?  \n👦 (Laki-laki) / 👧 (Perempuan)" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "Pria",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Mari kita mulai penilaian risiko IMS bersama CuPI..." ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Faktor Resiko Pria",
+    "name": "1f84828f-0ae3-464f-af6b-7d37305bd85f"
+  }, {
+    "intent": "Wanita",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Mari kita mulai penilaian risiko IMS bersama CuPI..." ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Faktor Resiko Wanita",
+    "name": "bb9c938c-474c-40e6-b892-d32d3efd9a09"
+  } ]
+}

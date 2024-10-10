@@ -1,0 +1,27 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "tujuh",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "7",
+      "parameterId": "number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "Lampung Timur",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  } ]
+}

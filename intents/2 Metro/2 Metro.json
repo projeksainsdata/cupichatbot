@@ -1,0 +1,13 @@
+{
+  "name": "223ab205-dc0a-4ca1-869a-56867e064c0e",
+  "displayName": "2 Metro",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 3
+}

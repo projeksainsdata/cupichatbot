@@ -1,0 +1,38 @@
+{
+  "name": "8c326c02-b5d0-4c43-a59f-9f7c04a27dfb",
+  "displayName": "Thanks",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Terima kasih sudah berkunjung.\nBila kakak merasa terbantu dengan informasi yang CuPI berikan, silahkan sebarkan akun CuPI dan follow channel CuPI untuk informasi terkini seputar IMS." ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "Salam Hidup Sehat dari CuPI." ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "Ya",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "End Flow",
+    "name": "0e10437f-89ea-4f69-9bfe-d8d06fc2f6de"
+  }, {
+    "intent": "Oke",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "End Flow",
+    "name": "8b1232ca-8d33-4081-803e-756456e6720f"
+  } ]
+}

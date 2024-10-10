@@ -1,0 +1,80 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "👌",
+      "parameterId": "currency-name",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "👍",
+      "parameterId": "currency-name",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "keren",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "sangat membantu",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "mantap",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "baik",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "y",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "ok",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "siap",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "oke",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  } ]
+}

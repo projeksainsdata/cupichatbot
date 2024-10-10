@@ -1,0 +1,46 @@
+{
+  "fallbackSettings": {
+    "selectedPrompt": "Default"
+  },
+  "generativeSafetySettings": {
+    "raiSettings": {
+      "categoryFilters": [ {
+        "category": "DANGEROUS_CONTENT",
+        "filterLevel": "BLOCK_FEW"
+      }, {
+        "category": "SEXUALLY_EXPLICIT_CONTENT",
+        "filterLevel": "BLOCK_SOME"
+      }, {
+        "category": "HARASSMENT",
+        "filterLevel": "BLOCK_SOME"
+      }, {
+        "category": "HATE_SPEECH",
+        "filterLevel": "BLOCK_SOME"
+      } ]
+    },
+    "defaultRaiSettings": {
+      "categoryFilters": [ {
+        "category": "DANGEROUS_CONTENT",
+        "filterLevel": "BLOCK_FEW"
+      }, {
+        "category": "SEXUALLY_EXPLICIT_CONTENT",
+        "filterLevel": "BLOCK_SOME"
+      }, {
+        "category": "HARASSMENT",
+        "filterLevel": "BLOCK_SOME"
+      }, {
+        "category": "HATE_SPEECH",
+        "filterLevel": "BLOCK_SOME"
+      } ]
+    }
+  },
+  "languageCode": "id",
+  "knowledgeConnectorSettings": {
+    "mainLlmConfig": {
+    
+    }
+  },
+  "llmModelSettings": {
+    "model": "gemini-pro"
+  }
+}

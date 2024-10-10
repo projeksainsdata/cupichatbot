@@ -1,0 +1,13 @@
+{
+  "name": "1d47d307-d127-42db-a1db-35e438f6ed29",
+  "displayName": "Wanita",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "currency-name",
+    "entityType": "@sys.currency-name"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 8
+}

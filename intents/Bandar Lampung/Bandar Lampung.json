@@ -1,0 +1,14 @@
+{
+  "name": "79fc80e6-2340-4737-aaef-d8f0df823091",
+  "displayName": "Bandar Lampung",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location",
+    "isList": true
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 3
+}

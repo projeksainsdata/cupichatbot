@@ -1,0 +1,69 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Hai, namaku CuPI" ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "Selamat Datang di Chatbot untuk Pemeriksaan IMS (infeksi menular seksual)" ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "Sebelumnya aku mau kasih tahu kakak bahwa tidak ada data yang akan disimpan oleh chat ini, jadi silahkan jawab semua pertanyaan dengan jujur ya." ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "CuPI akan membantu kakak untuk menilai risiko terhadap IMS dan apa yang sebaiknya kakak lakukan selanjutnya, termasuk dimana harus mengakses pengobatan terdekat. " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "IC",
+    "name": "21a578bd-24ab-490f-840d-a602676c4e8c"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Saya tidak mengerti. Bisa diulangi?", "Saya tidak dengar Anda bilang apa. Bisa ulangi lagi?", "Maaf, bisa ulangi lagi?", "Maaf, bisa diulangi?", "Bisa ulangi lagi?", "Maaf, saya tidak mengerti.", "Maaf, tadi bilang apa?", "Sekali lagi?", "Bilang apa tadi?", "Bisa diulangi?", "Saya tidak mengerti.", "Saya tidak dengar." ]
+        },
+        "languageCode": "id"
+      } ]
+    },
+    "name": "4049976e-a3aa-4167-b943-c06ffc43a6a6"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Saya tidak mengerti. Bisa diulangi?", "Saya tidak dengar Anda bilang apa. Bisa ulangi lagi?", "Maaf, bisa ulangi lagi?", "Maaf, bisa diulangi?", "Bisa ulangi lagi?", "Maaf, saya tidak mengerti.", "Maaf, tadi bilang apa?", "Sekali lagi?", "Bilang apa tadi?", "Bisa diulangi?", "Saya tidak mengerti.", "Saya tidak dengar." ]
+        },
+        "languageCode": "id"
+      } ]
+    },
+    "name": "6f2399fe-b759-492e-9e85-a314bd782900"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001
+  },
+  "nluSettingsList": [ {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "customConfigKey": "44e3cdce-7491-4d4f-9297-c24a4f10de58",
+    "languageCode": "id"
+  } ]
+}

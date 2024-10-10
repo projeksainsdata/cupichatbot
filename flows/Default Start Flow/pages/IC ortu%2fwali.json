@@ -1,0 +1,38 @@
+{
+  "name": "bf7cd9f4-ce0f-4329-a2fa-c0907259f438",
+  "displayName": "IC ortu/wali",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Usia kakak belum 18 tahun sehingga kakak wajib didampingi dan  mendapatkan persetujuan dari orang tua/wali.\n" ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "Apakah orang tua/wali kakak menyetujui kakak mengikuti penilaian risiko IMS dari CuPI? ( Ya / Tidak )" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "Ya",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Jenis Kelamin",
+    "name": "76c8f8ef-6317-426f-b070-d07b923cd351"
+  }, {
+    "intent": "Tidak",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Penutup",
+    "name": "f7e5506c-9a11-4705-9664-85a6d4b4a285"
+  } ]
+}

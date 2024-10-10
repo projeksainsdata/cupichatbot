@@ -1,0 +1,109 @@
+{
+  "name": "4030a0d3-cd07-417f-9553-08589d190e1a",
+  "displayName": "Penutup",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Apakah kakak ingin mengulang?" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "Tidak",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Terima kasih sudah berkunjung.\nBila kakak merasa terbantu dengan informasi yang CuPI berikan, silahkan sebarkan akun CuPI dan follow channel CuPI untuk informasi terkini seputar IMS." ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "Salam Hidup Sehat dari CuPI." ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "End Flow",
+    "name": "991696b9-a47c-4e3c-b658-6efc2333cf6d"
+  }, {
+    "intent": "Terima kasih",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Terima kasih sudah berkunjung.\nBila kakak merasa terbantu dengan informasi yang CuPI berikan, silahkan sebarkan akun CuPI dan follow channel CuPI untuk informasi terkini seputar IMS." ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "Salam Hidup Sehat dari CuPI." ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "End Flow",
+    "name": "af051028-1bf9-41d0-849e-31b221c316ce"
+  }, {
+    "intent": "Oke",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Hai, namaku CuPI\r\nSelamat Datang di Chatbot untuk Pemeriksaan IMS (infeksi menular seksual).\r\n" ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "Sebelumnya CuPI mau kasih tahu kakak bahwa tidak ada data identitas yang akan disimpan oleh chat ini, jadi silahkan jawab semua pertanyaan dengan jujur ya." ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "CuPI akan membantu kakak untuk menilai risiko terhadap IMS dan apa yang sebaiknya kakak lakukan selanjutnya, termasuk dimana harus mengakses pengobatan terdekat. " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "IC",
+    "name": "d6353255-8e74-4f69-a162-74f9d819284b"
+  }, {
+    "intent": "Ya",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Hai, namaku CuPI\nSelamat Datang di Chatbot untuk Pemeriksaan IMS (infeksi menular seksual)." ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "Sebelumnya CuPI mau kasih tahu kakak bahwa tidak ada data identitas yang akan disimpan oleh chat ini, jadi silahkan jawab semua pertanyaan dengan jujur ya." ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "CuPI akan membantu kakak untuk menilai risiko terhadap IMS dan apa yang sebaiknya kakak lakukan selanjutnya, termasuk dimana harus mengakses pengobatan terdekat. " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "IC",
+    "name": "2aa33234-c209-4888-9f79-df85ce4156fd"
+  } ]
+}

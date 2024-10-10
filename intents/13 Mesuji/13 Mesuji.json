@@ -1,0 +1,16 @@
+{
+  "name": "c541c6b3-87ea-4072-a520-972123991f14",
+  "displayName": "13 Mesuji",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

@@ -1,0 +1,13 @@
+{
+  "name": "42544020-3d90-4062-a16c-d274dffd1a99",
+  "displayName": "11 Tulang Bawang",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 3
+}

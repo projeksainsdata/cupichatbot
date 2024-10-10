@@ -1,0 +1,50 @@
+{
+  "name": "2b4526c3-fb5a-442f-b310-141549d91382",
+  "displayName": "Gejala Wanita",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Berikut ini adalah tanda dan gejala IMS pada perempuan:" ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "1️⃣ Keputihan abnormal yang berbau menyengat, berwarna, atau berbusa.\n2️⃣ Nyeri pada panggul atau perut bagian bawah.\n3️⃣ Rasa gatal atau terbakar pada alat kelamin.\n4️⃣ Sakit/nyeri saat buang air kecil/kencing.\n5️⃣ Keluar cairan abnormal pada alat kelamin atau dubur.\n6️⃣ Luka/lecet di sekitar alat kelamin atau dubur.\n7️⃣ Bengkak/nyeri pada lipat paha.\n8️⃣ Kutil/benjolan di sekitar alat kelamin dan dubur." ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "Apakah kakak merasakan (atau pernah) salah satu (atau lebih) gejala diatas?\n(Ya/Tidak)" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "Ya",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Sangat Beresiko",
+    "name": "0b777877-cb53-4fb8-a93d-a1eedd503e97"
+  }, {
+    "intent": "semua angka",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Sangat Beresiko",
+    "name": "6185fc1b-6dbb-43b4-8ab6-b83cc205ea9c"
+  }, {
+    "intent": "Tidak",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Beresiko",
+    "name": "f839a885-098b-4676-813c-6063c74bc734"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "2f335782-551e-4636-ae00-27dd959b5ef0",
+  "displayName": "3 Lampung Selatan",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

@@ -1,0 +1,16 @@
+{
+  "name": "5100c4a2-f5af-4d1e-a4f5-8ba6adad752f",
+  "displayName": "4 Lampung Utara",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 5
+}

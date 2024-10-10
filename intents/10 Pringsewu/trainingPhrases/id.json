@@ -1,0 +1,27 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "sepuluh",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "10",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "Pringsewu",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  } ]
+}

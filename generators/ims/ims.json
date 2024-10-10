@@ -1,0 +1,17 @@
+{
+  "name": "6cec82ba-b100-4a1f-a8f9-4c76e2f77b22",
+  "displayName": "ims",
+  "placeholders": [ {
+    "id": "ims",
+    "name": "ims"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "b2aed445-5083-422e-a2f3-7c03f3ce837e",
+  "displayName": "Metro",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location",
+    "isList": true
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 2
+}

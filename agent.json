@@ -1,0 +1,64 @@
+{
+  "defaultLanguageCode": "id",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 471759228101,
+  "speechToTextSettings": {
+  
+  },
+  "startFlow": "Default Start Flow",
+  "advancedSettings": {
+    "audioExportGcsDestination": {
+    
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "loggingSettings": {
+    
+    }
+  },
+  "dataResidencyOption": "DATA_RESIDENCY_IN_USE_COMPLIANT",
+  "speakerIdSettings": {
+  
+  },
+  "customPayloadTemplates": [ {
+    "displayName": "Metro",
+    "payload": {
+      "fulfillmentMessages": [ {
+        "payload": {
+          "richContent": [ [ {
+            "icon": "🏥",
+            "subtitle": "Ns. Anita, S.Kep",
+            "text": [ "📞 0812-7241-4549", "🏢 Jl. Soekarno Hatta, Kec. Metro Barat", "📍 [Lokasi](https://maps.app.goo.gl/Hd1aVyNxbYgy39H48)" ],
+            "title": "PKM Ganjar Agung",
+            "type": "info"
+          } ], [ {
+            "icon": "🏥",
+            "subtitle": "dr. Nil Rahmayeni",
+            "text": [ "📞 0813-1011-9939", "🏢 Jl. Soekarno Hatta No.42 Mulyojati 16B, Metro Barat", "📍 [Lokasi](https://maps.app.goo.gl/JWAkKaFAHNUc3LsH8)" ],
+            "title": "RS Muhammadiyah",
+            "type": "info"
+          } ] ]
+        }
+      } ]
+    }
+  } ],
+  "textToSpeechSettings": {
+  
+  },
+  "duplexSettings": {
+  
+  },
+  "answerFeedbackSettings": {
+  
+  },
+  "webClientSettings": {
+    "boxBorderRadius": "0"
+  }
+}

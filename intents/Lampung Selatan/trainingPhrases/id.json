@@ -1,0 +1,19 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Kalianda",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "Lampung Selatan",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  } ]
+}

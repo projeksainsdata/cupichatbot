@@ -1,0 +1,27 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "11",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "sebelas",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "Tulang Bawang",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  } ]
+}

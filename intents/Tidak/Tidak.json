@@ -1,0 +1,13 @@
+{
+  "name": "af8f87e9-b94b-48bf-afcc-ee8bae4e7786",
+  "displayName": "Tidak",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 9
+}

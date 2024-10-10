@@ -1,0 +1,154 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "👋",
+      "parameterId": "currency-name",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "😊",
+      "parameterId": "currency-name",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "start",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "sore",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "malam",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "siang",
+      "parameterId": "time-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "pagi",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "shalom",
+      "parameterId": "person",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "parts": [ {
+      "text": "hi",
+      "parameterId": "location",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "45bf285d-2493-45d7-aef2-06218379b90b",
+    "parts": [ {
+      "text": "halo yang di sana",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "84313f73-33ca-4035-a65c-fd116434887f",
+    "parts": [ {
+      "text": "halo",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "ce123ce4-c2cf-4573-8a14-8e6519768f6e",
+    "parts": [ {
+      "text": "hai",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "b47de506-b514-4019-87fc-b0a09167c836",
+    "parts": [ {
+      "text": "salam",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "3177c40b-a96a-4077-ac8a-f9c8042f985c",
+    "parts": [ {
+      "text": "halo halo",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "c53fdc02-04c8-4d9e-9bbe-b93bbe28b060",
+    "parts": [ {
+      "text": "lama nggak ketemu",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "8f6b7b76-bb53-4c2f-afd4-7078d7171cf7",
+    "parts": [ {
+      "text": "hai hai",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "ea23cded-2b9c-4e24-9fbd-65aeb08213de",
+    "parts": [ {
+      "text": "halo apa kabar",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "a3ddd86c-bc72-45ff-9cbf-d5791091372a",
+    "parts": [ {
+      "text": "assalamualaikum",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  }, {
+    "id": "dbeb6ae7-e270-427f-ade3-2ac9fda19e2a",
+    "parts": [ {
+      "text": "hai apa kabarnya",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "id"
+  } ]
+}

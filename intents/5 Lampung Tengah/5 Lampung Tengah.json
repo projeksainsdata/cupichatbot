@@ -1,0 +1,14 @@
+{
+  "name": "d6f87ec9-0f6c-44aa-846e-93e0ec52cde5",
+  "displayName": "5 Lampung Tengah",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location",
+    "isList": true
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

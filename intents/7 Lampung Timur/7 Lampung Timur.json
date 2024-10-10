@@ -1,0 +1,13 @@
+{
+  "name": "6228cc6e-ce31-413d-8127-f724dc70ae65",
+  "displayName": "7 Lampung Timur",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 3
+}

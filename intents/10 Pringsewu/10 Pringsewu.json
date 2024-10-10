@@ -1,0 +1,13 @@
+{
+  "name": "ab7b0115-ee7e-48f8-b7c3-8fc4882ac203",
+  "displayName": "10 Pringsewu",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 3
+}

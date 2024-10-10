@@ -1,0 +1,10 @@
+{
+  "name": "71da178d-3e5c-4505-88d5-1471aa32d16f",
+  "displayName": "dibawah 18 tahun",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 17
+}

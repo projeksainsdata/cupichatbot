@@ -1,0 +1,50 @@
+{
+  "name": "4ecfb4ce-b279-46b0-921d-7f4270408dd1",
+  "displayName": "Gejala Pria",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Berikut ini adalah tanda dan gejala IMS pada laki-laki :" ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "1️⃣ Rasa gatal atau terbakar pada alat kelamin.\n2️⃣ Sakit/nyeri saat buang air kecil/kencing.\n3️⃣ Keluar cairan abnormal pada alat kelamin atau dubur.\n4️⃣ Kencing nanah.\n5️⃣ Skrotum nyeri dan bengkak.\n6️⃣ Luka/lecet di sekitar alat kelamin atau dubur.\n7️⃣ Bengkak/nyeri pada lipat paha.\n8️⃣ Kutil/benjolan di sekitar alat kelamin dan dubur." ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "Apakah kakak merasakan (atau pernah) salah satu (atau lebih) gejala diatas?\n(Ya/Tidak)" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "Ya",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Sangat Beresiko",
+    "name": "efe8d2b2-8dd2-4d67-9b1f-5d6bc99ec1f1"
+  }, {
+    "intent": "Tidak",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Beresiko",
+    "name": "e3b3376b-a3e8-4c6e-84a1-3897472d42ab"
+  }, {
+    "intent": "semua angka",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Sangat Beresiko",
+    "name": "f15d7572-00ed-4fc8-9ca7-6242e7b75b97"
+  } ]
+}

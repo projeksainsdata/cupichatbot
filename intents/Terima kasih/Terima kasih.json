@@ -1,0 +1,10 @@
+{
+  "name": "7df11188-7d2c-4c56-bb9e-b20a4fd0e2f4",
+  "displayName": "Terima kasih",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 2
+}

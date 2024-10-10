@@ -1,0 +1,52 @@
+{
+  "name": "9deb6440-ee28-4ce5-ae9a-c818b56fb1d8",
+  "displayName": "Faktor Resiko Wanita",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Berikut ini adalah perilaku-perilaku berisiko tertular IMS pada perempuan :" ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "1️⃣ Pernah melakukan hubungan seksual tanpa kondom dalam setahun terakhir.\n2️⃣ Pernah memiliki pasangan seksual lebih dari satu dalam setahun terakhir.\n3️⃣ Pernah berhubungan seks dengan pekerja seks dalam setahun terakhir.\n4️⃣ Pernah memiliki keluhan seperti keputihan berbau, nyeri pada panggul, sakit saat kencing, atau memiliki luka/kutil di sekitar alat kelamin dalam setahun terakhir.\n5️⃣ Pernah memiliki pasangan seksual dengan perilaku berisiko dalam setahun terakhir." ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "Apakah kakak merasakan (atau pernah) salah satu (atau lebih) gejala diatas?\n(Ya/Tidak)" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "semua angka",
+    "triggerFulfillment": {
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Gejala Wanita",
+    "name": "039c83b9-a389-4402-98a0-8bbb9318034b"
+  }, {
+    "intent": "Tidak",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Tidak, Gejala Wanita",
+    "name": "ef5a9639-4e5d-48fa-ae19-84015a95116c"
+  }, {
+    "intent": "Ya",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Gejala Wanita",
+    "name": "bdef6d06-4cc0-4a3f-a969-4c22ed0b9965"
+  } ]
+}

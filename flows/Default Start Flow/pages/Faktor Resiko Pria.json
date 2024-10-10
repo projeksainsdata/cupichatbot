@@ -1,0 +1,50 @@
+{
+  "name": "9e99ccb7-eab3-4dac-9c8c-9c6a297bb18a",
+  "displayName": "Faktor Resiko Pria",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Berikut ini adalah perilaku-perilaku berisiko tertular IMS pada laki-laki :" ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "1️⃣ Pernah melakukan hubungan seksual tanpa kondom dalam setahun terakhir.\n2️⃣ Pernah memiliki pasangan seksual lebih dari satu dalam setahun terakhir.\n3️⃣ Pernah berhubungan seks dengan pekerja seks dalam setahun terakhir.\n4️⃣ Pernah memiliki keluhan seperti sakit saat kencing, kencing nanah, atau memiliki luka/kutil di sekitar alat kelamin dalam setahun terakhir.\n5️⃣ Pernah memiliki pasangan seksual dengan perilaku berisiko dalam setahun terakhir." ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "Apakah kakak pernah melakukan salah satu (atau lebih) dari perilaku di atas?\n(Ya/Tidak)" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "semua angka",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Gejala Pria",
+    "name": "f81ff42f-c140-40ad-a80d-5bb212a12058"
+  }, {
+    "intent": "Tidak",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Tidak, Gejala Pria",
+    "name": "b8f2b17f-04e5-4f20-abf8-3df6600ce365"
+  }, {
+    "intent": "Ya",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Gejala Pria",
+    "name": "34b9f9d5-ed29-448d-b2a6-4720c25b02d4"
+  } ]
+}

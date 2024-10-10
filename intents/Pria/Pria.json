@@ -1,0 +1,16 @@
+{
+  "name": "a56cd979-23e8-4695-b085-a38bf9c4f112",
+  "displayName": "Pria",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "currency-name",
+    "entityType": "@sys.currency-name"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 7
+}

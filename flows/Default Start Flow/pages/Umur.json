@@ -1,0 +1,35 @@
+{
+  "name": "a0a5af39-f019-46d1-9b97-aa60a5825e4a",
+  "displayName": "Umur",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Berapa usia kakak?" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "di atas atau 18 tahun",
+    "triggerFulfillment": {
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Jenis Kelamin",
+    "name": "35360066-06a1-4fd1-8bd7-fb5304926589"
+  }, {
+    "intent": "dibawah 18 tahun",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "IC ortu/wali",
+    "name": "ceb2dba9-2d25-4b7a-931e-6c50e2599d5a"
+  } ]
+}

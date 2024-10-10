@@ -1,0 +1,424 @@
+{
+  "name": "f75ea9d8-df3e-45b7-bcfd-2fe8a3f3aa1b",
+  "displayName": "Beresiko",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Kakak memiliki risiko terhadap penularan IMS walaupun saat ini tidak memiliki tanda dan gejala. Untuk itu boleh CuPI sarankan:" ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "1️⃣ Kunjungi fasilitas kesehatan secara berkala (setiap 6 bulan sekali) bila memiliki perilaku seksual berisiko. Beberapa IMS tidak memiliki gejala yang khas dalam waktu lama seperti HIV, Hepatitis B, atau Hepatitis C.\n2️⃣ Gunakan selalu kondom ketika berhubungan seksual berisiko.\n3️⃣ Segera kunjungi fasilitas kesehatan bila memiliki tanda dan gejala IMS.\n4️⃣ Hindari melakukan pengobatan sendiri karena penggunaan obat/antibiotika tanpa pengawasan tenaga profesional bisa membahayakan diri sendiri.\n5️⃣ Hindari hoax atau mitos seputar IMS dan pengobatannya. Tanyakan kebenarannya pada tenaga profesional." ]
+      },
+      "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "🏠 Dimana tempat tinggal kakak?\r\n1️⃣ Bandar Lampung (ketik angka 1)\r\n2️⃣ Metro (ketik angka 2)\r\n3️⃣ Lampung Selatan (ketik angka 3)\r\n4️⃣ Lampung Utara (ketik angka 4)\r\n5️⃣ Lampung Tengah (ketik angka 5)\r\n6️⃣ Lampung Barat (ketik angka 6)\r\n7️⃣ Lampung Timur (ketik angka 7)\r\n8️⃣ Way Kanan (ketik angka 8)\r\n9️⃣ Tanggamus (ketik angka 9)\r\n🔟 Pringsewu (ketik angka 10)\r\n1️⃣1️⃣ Tulang Bawang (ketik angka 11)\r\n1️⃣2️⃣ Tulang Bawang Barat (ketik angka 12)\r\n1️⃣3️⃣ Mesuji (ketik angka 13)\r\n1️⃣4️⃣ Pesawaran (ketik angka 14)\r\n1️⃣5️⃣ Pesisir Barat (ketik angka 15)" ]
+      },
+      "languageCode": "id"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "1 Bandar Lampung",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Sukaraja  \n👩‍⚕️ dr. Eva Daniel  \n📞 0853-1060-7135  \n🏢 Jl. Yos Sudarso No.242, Kec. Bumi Waras  \n📍 https://maps.app.goo.gl/km9KeBxyewmC4HTk9  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Pasar Ambon  \n👩‍⚕️ dr. Arlia Novita  \n📞 0813-7963-2424  \n🏢 Jl. Laksamana Malahayati No.11, Kec. Teluk Betung  \n📍 https://maps.app.goo.gl/zLkQgoo7mxrXEAbGA  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Sukabumi  \r\n👩‍⚕️ dr. Dea  \r\n📞 0853-6863-7979  \r\n🏢 Jl. P. Bangka No.13, Kec. Sukabumi  \r\n📍 https://maps.app.goo.gl/BqJ6AHcu1SAtm9wh6  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Kemiling  \r\n👩‍⚕️ Ns. Indri Lestari, S.Kep  \r\n📞 0822-8927-0626  \r\n🏢 Jl. Imam Bonjol No.592, Kec. Kemiling 35153  \r\n📍 https://maps.app.goo.gl/i3m7q5NzNQQhHfFQA  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Rajabasa Indah  \r\n👩‍⚕️ Yuli Yani  \r\n📞 0821-7591-9698  \r\n🏢 Jl. Pramuka No.1, Kec. Rajabasa  \r\n📍 https://maps.app.goo.gl/CU8mYgUMCU9hwrx8A  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Sumur Batu  \r\n👩‍⚕️ dr. Tuti  \r\n📞 0821-7992-5059  \r\n🏢 Jl. Cut Mutia No. 09/11 Sumur Batu, Kec. Teluk Betung  \r\n📍 https://maps.app.goo.gl/Zao8r4ss49Q4Rgaq5" ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "4670bbfb-e15a-48c0-9ec0-e70e07769a34"
+  }, {
+    "intent": "2 Metro",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Ganjar Agung  \r\n👩‍⚕️ Ns. Anita, S.Kep  \r\n📞 0812-7241-4549  \r\n🏢 Jl. Soekarno Hatta, Kec. Metro Barat  \r\n📍 https://maps.app.goo.gl/Hd1aVyNxbYgy39H48  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 RS Muhammadiyah  \n👨‍⚕️ dr. Nil Rahmayeni  \n📞 0813-1011-9939  \n🏢 Jl. Soekarno Hatta No.42 Mulyojati 16B, Metro Barat  \n📍 https://maps.app.goo.gl/JWAkKaFAHNUc3LsH8  " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "3d85cfeb-5b61-430a-b407-2558fe39d536"
+  }, {
+    "intent": "3 Lampung Selatan",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 RSUD dr. H. Bob Bazar, SKM  \r\n👨‍⚕️ Raden Anom  \r\n📞 0812-7880-9283  \r\n🏢 Jl. Lettu Rohani 14 B, Kalianda  \r\n📍 https://maps.app.goo.gl/5NfYT4KksGHDwzxz5  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Kalianda  \r\n👩‍⚕️ Linda Armiyanti  \r\n📞 0812-7327-2525  \r\n🏢 Jl. Veteran No. 144 Bumi Agung Kalianda, Kec. Kalianda  \r\n📍 https://maps.app.goo.gl/zmNrQLTycVsz1ziN7  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Way Urang  \r\n👩‍⚕️ dr. Ida Yanti  \r\n📞 0822-8288-0435  \r\n🏢 Jl. Dulhadi Komp. Perumahan Ragom Mufakat II Kalianda, Kec. Kalianda 35513  \r\n📍 https://maps.app.goo.gl/J2K4Bkqd5wUqsmfF8  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Sidomulyo  \r\n👩‍⚕️ Lusiyana Dewi  \r\n📞 0853-7954-3730  \r\n🏢 Ds. Sidorejo, Kec. Sidomulyo 35453  \r\n📍 https://maps.app.goo.gl/a6KjmB5UmfMYNEvL8  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Tanjung Bintang  \r\n👩‍⚕️ Dwi Apriliani  \r\n📞 0858-4031-3324  \r\n🏢 Jl. Budi Santoso No.1, Ds. Jati Baru, Kec Tanjung Bintang 35361  \r\n📍 https://maps.app.goo.gl/NMJsQVJMzUmyST6M8  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Karang Anyar  \r\n👩‍⚕️ Indah  \r\n📞 0823-7778-7444  \r\n🏢 Ds. Karang Anyar, Kec. Jati Agung 35365  \r\n📍 https://maps.app.goo.gl/8jMkg5GMY7AS2vft8  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Natar  \r\n👩‍⚕️ Wulandari  \r\n📞 0821-8500-0561  \r\n🏢 Jl. Dahlia III Natar, Kec. Natar 35362  \r\n📍 https://maps.app.goo.gl/UWYB2xkbZcrVBz518  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Katibung  \n👩‍⚕️ Chikita Aluvia Putri  \n📞 0853-7756-8959  \n🏢 Jl. Lintas Sumatera Ds. Pardasuka Kec. Katibung  \n📍 https://maps.app.goo.gl/4UVdF3gnwFWJ3k7UA" ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "9c791e37-3a3a-4623-ae8c-f1b7fbf58739"
+  }, {
+    "intent": "4 Lampung Utara",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Kotabumi II  \r\n👨‍⚕️ Ns. Yosep Sugiantoro, S.Kep  \r\n📞 0821-7977-7119  \r\n🏢 Jl. Sukarno Hatta No. 2 Kota Alam, Kec. Kota Bumi Selatan  \r\n📍 https://maps.app.goo.gl/DCkQjQcSxhkDamjX6 " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "4a22c4a3-315a-4cda-866b-6a2f93f86690"
+  }, {
+    "intent": "5 Lampung Tengah",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Candi Rejo  \r\n👩‍⚕️ dr. Deny Natalia  \r\n📞 0852-8282-5750  \r\n🏢 Jl. Raya Lintas Sumatera, Kec. Way Pangubuan  \r\n📍 https://maps.app.goo.gl/AeENguLmQmiDzxHm9 " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Bandar Jaya  \r\n👩‍⚕️ Elka Kurnia Wicaksana  \r\n📞 0822-8130-1179  \r\n🏢 Jl. A.Yani No.33 Bandar Jaya, Kec. Terbanggi Besar  \r\n📍 https://maps.app.goo.gl/KXoQAPc3GLJzaYY9A  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Kalirejo  \r\n👩‍⚕️ dr. Niken/Jemi Yulianingsih  \r\n📞 0812-1595-616 / 0812-7291-4528  \r\n🏢 Kalirejo, Kec. Kalirejo  \r\n📍 https://maps.app.goo.gl/jiNqzSoKesjrQR8FA " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Simbarwaringin  \r\n👨‍⚕️ Ridho Adi Dandoko  \r\n📞 0812-7882-0356  \r\n🏢 Jl. Raya Simbarwaringin, Desa Simbarwaringin, Kec. Trimurjo, Kab. Lampung Tengah 34172 - Lampung  \r\n📍 https://maps.app.goo.gl/S6Dc4mwc8XR1DgVDA  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Poncowati  \r\n👩‍⚕️ Ika Kusuma  \r\n📞 0823-2008-5779  \r\n🏢 Jl. A.Yani No.1 Poncowati, Kec. Terbanggi Besar  \r\n📍 https://maps.app.goo.gl/fXuHqSk3BqUjo9S8A  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Seputih Banyak  \r\n👨‍⚕️ Ismunadi/Erli  \r\n📞 0812-7274-1811 / 0822-6915-4848  \r\n🏢 Ds. Seputih Banyak, Kec. Seputih Banyak  \r\n📍 https://maps.app.goo.gl/nuw4CTpXQTWdp4kP9  " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "56e01dbe-2fcd-4198-b44e-e3064108912e"
+  }, {
+    "intent": "6 Lampung Barat",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Liwa  \r\n👩‍⚕️ Dewi Apriani  \r\n📞 0821-7667-8691  \r\n🏢 Jl. Let. Jend. R. Soeprapto No. 01, Pekon Sebarus, Kec. Balik Bukit, Kab. Lampung Barat 34811 - Lampung  \r\n📍 https://maps.app.goo.gl/mxNzft2RwjxEeAGD6  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Sumber Jaya  \r\n👩‍⚕️ Ani Melinawati  \r\n📞 0822-7866-0791  \r\n🏢 Jl. Simpang Gadis, Kel. Tugusari, Kec. Sumber Jaya, Kab. Lampung Barat 34871 - Lampung  \r\n📍 https://maps.app.goo.gl/FTZM68znYw6cHY2K8  " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "13be5355-db9a-4f62-b8fd-87b12a2ed348"
+  }, {
+    "intent": "7 Lampung Timur",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Tambah Subur  \n👨‍⚕️ Satriyo Priono  \n📞 0813-6950-0099  \n🏢 Jl. A Yani No. 04 Ds. Tambah Subur, Kec. Way Bungur  \n📍 https://maps.app.goo.gl/u6PNRRzNmDDULtrP9  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Pugung  \r\n👨‍⚕️ Sadiyo Angkoso Putro  \r\n📞 0813-6970-6907  \r\n🏢 Jl. Purbakala No. 1 Rt. 27 Rw 8, Kec. Sekampung Udik  \r\n📍 https://maps.app.goo.gl/xDJQ2Tj84gVppfiF8 " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Trimulyo  \n👨‍⚕️ A. Wiodo Jatmiko  \n📞 0815-4099-7659  \n🏢 Jl. Raya Trimulyo Rt 1 Rw 1 Ds. Trimulyo, Kec. Sekampung  \n📍 https://maps.app.goo.gl/RqTpvKvdAdLH76NQ7  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Pasir Sakti  \r\n👩‍⚕️ Kadek Puspita Dewi  \r\n📞 0813-8056-0548  \r\n🏢 Jl. Pasir Luhur Ds. Mulyosari, Kec. Pasir Sakti  \r\n📍 https://maps.app.goo.gl/223KTdbZTPR9ufR2A  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Mataram Baru  \r\n👩‍⚕️ Mahastuti Ratna Dewi  \r\n📞 0853-8443-2011  \r\n🏢 Jl. Sukarno Hatta No. 3, Kec. Mataram Baru  \r\n📍 https://maps.app.goo.gl/xBKaTAeEcj4o38PA8" ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "d0f608f7-4417-44ab-8b52-00d546f803d7"
+  }, {
+    "intent": "8 Way Kanan",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Way Tuba  \r\n👩‍⚕️ dr. Nanik  \r\n📞 0852-7999-3866  \r\n🏢 Jl. Mayjen H.M. Ryacudu No. 140 Ds. Way Tuba, Kec. Way Tuba  \r\n📍 https://maps.app.goo.gl/scTh9KvMSqn4LgQw5 " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "c089d4ad-03e2-44b0-a5e9-68ba5c9e9a31"
+  }, {
+    "intent": "9 Tanggamus",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Kota Agung  \r\n👩‍⚕️ dr. Tiara Paraswati Yuniandri  \r\n📞 0811-799-805  \r\n🏢 Jl. Dr. Syaiful Anwar No. 4 Pekon Kuripan, Kec. Kota Agung  \r\n📍 https://maps.app.goo.gl/FZnfYVAtTRioig7Y9 " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Gisting  \r\n👩‍⚕️ dr. Nila Kusumawati  \r\n📞 0812-7226-1606  \r\n🏢 Jl. Raya Gisting Bawah, Kec. Gisting  \r\n📍 https://maps.app.goo.gl/KNSeXULsgBMTpLUj9  " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "3b0cbb1f-6f17-4f53-acc9-bd5831916376"
+  }, {
+    "intent": "10 Pringsewu",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 RSUD Pringsewu  \r\n👩‍⚕️ Surini  \r\n📞 0852-7981-2345  \r\n🏢 Jl. Lintas Barat Pekon Fajar Agung Barat Kec. Pringsewu  \r\n📍 https://maps.app.goo.gl/Ph3gHK1y9Uw2xCYE7 " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Pringsewu  \r\n👩‍⚕️ Kristina Rina / Hesti  \r\n📞 0857-2168-7203 / 0813-7910-7552  \r\n🏢 Jl. Johar II Pringombo, Ds. Sidoharjo, Kec. Pringsewu  \r\n📍 https://maps.app.goo.gl/q53ae9W6nuwrX97C8 " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Ambarawa  \n👩‍⚕️ Nur Chotimah  \n📞 0813-6642-0779  \n🏢 Jl. HM Ghardi, Kec. Ambarawa  \n📍 https://maps.app.goo.gl/q8PjCTUWVSwv5TCg8  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Sukoharjo  \r\n👩‍⚕️ Neneng  \r\n📞 0813-7975-9479  \r\n🏢 Jl. Kesehatan Sukoharjo III, Kec. Sukoharjo  \r\n📍 https://maps.app.goo.gl/mV84tq38CtUWvJpD7  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Gadingrejo  \r\n👩‍⚕️ Helsi Lestari  \r\n📞 0852-6993-1332  \r\n🏢 Jl. Dewi Ratih, Kec. Gading Rejo  \r\n📍 https://maps.app.goo.gl/McoxVwD42yk6DewJ9  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Wates  \r\n👩‍⚕️ Wilda Anisa  \r\n📞 0852-7983-1610  \r\n🏢 Jl. Raya Wates Ds. Wates, Kec. Gading Rejo  \r\n📍 https://maps.app.goo.gl/ngmdh3oH971euHoE9  " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "d23e4e7e-9207-4882-9906-3efd52b25f86"
+  }, {
+    "intent": "11 Tulang Bawang",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Tulang Bawang I  \r\n👩‍⚕️ Yuniarti  \r\n📞 0813-7953-7537  \r\n🏢 Ds. Banjar Agung, Kec. Banjar Agung  \r\n📍 https://maps.app.goo.gl/GtsZyS5BGvudqExcA  " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "b0ddba62-0d20-45c3-8eac-ce61b9157480"
+  }, {
+    "intent": "12 Tulang Bawang Barat",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Kibang Budi Jaya  \n👩‍⚕️ dr. Nilawati  \n📞 0812-7237-223  \n🏢 Ds. Kibang Budi Jaya, Kec. Lambu Kibang  \n📍 https://maps.app.goo.gl/CTyHJwiZAUAoZUwR9  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Panaragan Jaya  \r\n👩‍⚕️ Devi Mardiana  \r\n📞 0821-6581-2220  \r\n🏢 Jl. Diponegoro, Kp. Panaragan Jaya, Kec. Tulang Bawang Tengah  \r\n📍 https://maps.app.goo.gl/2b8pViYGHZXcFch27" ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "b49e8d06-b9dd-4b17-ae86-130c29814171"
+  }, {
+    "intent": "13 Mesuji",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Brabasan  \r\n👩‍⚕️ Feny Wulandari, A.Md.AK  \r\n📞 0822-1759-0926  \r\n🏢 Kampung Brabasan, Kec. Tanjung Raya  \r\n📍 https://maps.app.goo.gl/aK62zikfhBewCLFb6  " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "52b7c835-9505-46ab-91b7-93417837cab6"
+  }, {
+    "intent": "14 Pesawaran",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 RSUD Pesawaran  \r\n👩‍⚕️ Mutiara Yuda  \r\n📞 0821-8196-1149  \r\n🏢 Jln. Raya Kedondong, Sukamarga, Desa Gedong Tataan Kec. Gedong Tataan, Kab. Pesawaran  \r\n📍 https://maps.app.goo.gl/87v4ZPoajhxqrreX9  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Gedong Tataan  \r\n👩‍⚕️ Nila Septiani  \r\n📞 0812-7946-1889  \r\n🏢 Jl. Ahmad Yani Ds. Sukaraja, Kec. Gedong Tataan 35371  \r\n📍 https://maps.app.goo.gl/BNf2CLVikT1yNRZt7  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Tegineneng  \r\n👩‍⚕️ Septy Dwi Putri  \r\n📞 0856-6962-2323  \r\n🏢 Jl. Lintas Sumatra No.70, Kec. Tegineneng 35363  \r\n📍 https://maps.app.goo.gl/sQm969R2T8c1smPZ8  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Hanura  \r\n👩‍⚕️ Nurhayati  \r\n📞 0853-7793-8777  \r\n🏢 Jl. Suprapto No.1 Ds. Hanura, Kec. Teluk Pandan  \r\n📍 https://maps.app.goo.gl/tMQqjcDgrJEprD8v9  " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "a243b060-3009-4881-ad03-8a6d19544a1c"
+  }, {
+    "intent": "15 Pesisir Barat",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🏥 PKM Krui  \r\n👩‍⚕️ Yesi Heca Putri, A.Md.Kep.  \r\n📞 0858-4106-0093  \r\n🏢 Ds. Pasar Krui, Kec. Pesisir Tengah  \r\n📍 https://maps.app.goo.gl/SGXQt1MeEFWiwMot8  " ]
+        },
+        "languageCode": "id"
+      }, {
+        "text": {
+          "text": [ "🏥 PKM Biha  \r\n👩‍⚕️ Denty Alvita Sari, S.Tr.Keb.  \r\n📞 0823-0658-8853  \r\n🏢 Ds. Tanjung Jati Gunung Sari, Kec. Pesisir Selatan  \r\n📍 https://maps.app.goo.gl/VRyMRYUppXZ4EJ6K8 " ]
+        },
+        "languageCode": "id"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "Penutup",
+    "name": "21db62de-c4e9-41e4-b036-db013d667d8e"
+  } ]
+}

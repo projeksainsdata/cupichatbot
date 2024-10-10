@@ -1,0 +1,16 @@
+{
+  "name": "f0bce0ff-80ba-49fa-912b-42ef1efbfde5",
+  "displayName": "Ya",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "currency-name",
+    "entityType": "@sys.currency-name"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 13
+}

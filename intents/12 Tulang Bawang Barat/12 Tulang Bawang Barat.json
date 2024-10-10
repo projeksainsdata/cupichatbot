@@ -1,0 +1,13 @@
+{
+  "name": "c585cc40-3ad3-4251-ab09-13ab8f2d5fb1",
+  "displayName": "12 Tulang Bawang Barat",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

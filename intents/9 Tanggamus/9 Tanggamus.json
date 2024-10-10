@@ -1,0 +1,13 @@
+{
+  "name": "a2ccff97-eb4c-4168-81c9-9478507d420e",
+  "displayName": "9 Tanggamus",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 3
+}

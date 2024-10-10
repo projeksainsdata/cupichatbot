@@ -1,0 +1,43 @@
+{
+  "entities": [ {
+    "value": "1",
+    "synonyms": [ "1", "pertama", "satu " ],
+    "languageCode": "id"
+  }, {
+    "value": "2",
+    "synonyms": [ "2", "dua ", "kedua" ],
+    "languageCode": "id"
+  }, {
+    "value": "3",
+    "synonyms": [ "3", "ketiga ", "tiga" ],
+    "languageCode": "id"
+  }, {
+    "value": "4",
+    "synonyms": [ "4", "empat ", "keempat" ],
+    "languageCode": "id"
+  }, {
+    "value": "5",
+    "synonyms": [ "5", "lima", "kelima" ],
+    "languageCode": "id"
+  }, {
+    "value": "6",
+    "synonyms": [ "6", "enam", "keenam" ],
+    "languageCode": "id"
+  }, {
+    "value": "7",
+    "synonyms": [ "7", "ketujuh", "tujuh" ],
+    "languageCode": "id"
+  }, {
+    "value": "8",
+    "synonyms": [ "8", "delapan" ],
+    "languageCode": "id"
+  }, {
+    "value": "9",
+    "synonyms": [ "9", "sembilan" ],
+    "languageCode": "id"
+  }, {
+    "value": "semua",
+    "synonyms": [ "semua" ],
+    "languageCode": "id"
+  } ]
+}

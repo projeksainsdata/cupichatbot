@@ -1,0 +1,13 @@
+{
+  "name": "c06d8336-f87e-4bdb-a2ec-01de0f11fb74",
+  "displayName": "14 Pesawaran",
+  "parameters": [ {
+    "id": "location",
+    "entityType": "@sys.location"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

@@ -1,0 +1,13 @@
+{
+  "name": "add52bec-5ebe-4785-a9c4-451cb014edd1",
+  "displayName": "huruf angka",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  }, {
+    "id": "location",
+    "entityType": "@sys.location"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 9
+}

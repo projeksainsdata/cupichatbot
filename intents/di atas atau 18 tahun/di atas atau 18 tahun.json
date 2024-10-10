@@ -1,0 +1,14 @@
+{
+  "name": "ada11fd4-4b1e-4dab-a26d-966a371ceebb",
+  "displayName": "di atas atau 18 tahun",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number",
+    "isList": true
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 52
+}

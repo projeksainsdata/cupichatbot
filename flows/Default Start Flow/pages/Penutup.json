@@ -7,7 +7,7 @@
   "entryFulfillment": {
     "messages": [ {
       "text": {
-        "text": [ "Apakah kakak ingin mengulang?" ]
+        "text": [ "Apakah kakak ingin mengulang?\nKetik:\n1. Ya\n2. Tidak" ]
       },
       "languageCode": "id"
     } ],
@@ -33,7 +33,7 @@
       
       }
     },
-    "targetPage": "End Flow",
+    "targetPage": "Thanks",
     "name": "991696b9-a47c-4e3c-b658-6efc2333cf6d"
   }, {
     "intent": "Terima kasih",
@@ -105,5 +105,19 @@
     },
     "targetPage": "IC",
     "name": "2aa33234-c209-4888-9f79-df85ce4156fd"
+  }, {
+    "intent": "dua",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Thanks",
+    "name": "b4824756-34a3-41d4-8da3-3975808a1694"
+  }, {
+    "intent": "satu",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "IC",
+    "name": "555073da-d67e-4412-b566-af89df5700c4"
   } ]
 }

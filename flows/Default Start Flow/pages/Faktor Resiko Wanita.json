@@ -17,7 +17,7 @@
       "languageCode": "id"
     }, {
       "text": {
-        "text": [ "Apakah kakak merasakan (atau pernah) salah satu (atau lebih) gejala diatas?\n(Ya/Tidak)" ]
+        "text": [ "Apakah kakak merasakan (atau pernah) salah satu (atau lebih) gejala diatas?\nKetik:\n1. Ya\n2. Tidak" ]
       },
       "languageCode": "id"
     } ],
@@ -26,15 +26,6 @@
     }
   },
   "transitionRoutes": [ {
-    "intent": "semua angka",
-    "triggerFulfillment": {
-      "nextActionOverride": {
-      
-      }
-    },
-    "targetPage": "Gejala Wanita",
-    "name": "039c83b9-a389-4402-98a0-8bbb9318034b"
-  }, {
     "intent": "Tidak",
     "triggerFulfillment": {
     
@@ -48,5 +39,19 @@
     },
     "targetPage": "Gejala Wanita",
     "name": "bdef6d06-4cc0-4a3f-a969-4c22ed0b9965"
+  }, {
+    "intent": "satu",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Gejala Wanita",
+    "name": "647efb82-eb79-4cb0-9487-f6404edcec1b"
+  }, {
+    "intent": "dua",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Tidak, Gejala Wanita",
+    "name": "3729ff1d-c355-42c0-9839-6de105326163"
   } ]
 }

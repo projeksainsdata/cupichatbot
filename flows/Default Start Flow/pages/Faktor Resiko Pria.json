@@ -17,7 +17,7 @@
       "languageCode": "id"
     }, {
       "text": {
-        "text": [ "Apakah kakak pernah melakukan salah satu (atau lebih) dari perilaku di atas?\n(Ya/Tidak)" ]
+        "text": [ "Apakah kakak pernah melakukan salah satu (atau lebih) dari perilaku di atas?\nKetik:\n1.Ya\n2.Tidak" ]
       },
       "languageCode": "id"
     } ],
@@ -26,13 +26,6 @@
     }
   },
   "transitionRoutes": [ {
-    "intent": "semua angka",
-    "triggerFulfillment": {
-    
-    },
-    "targetPage": "Gejala Pria",
-    "name": "f81ff42f-c140-40ad-a80d-5bb212a12058"
-  }, {
     "intent": "Tidak",
     "triggerFulfillment": {
     
@@ -46,5 +39,19 @@
     },
     "targetPage": "Gejala Pria",
     "name": "34b9f9d5-ed29-448d-b2a6-4720c25b02d4"
+  }, {
+    "intent": "satu",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Gejala Pria",
+    "name": "50658fb5-7f54-475c-bb7a-6079eaad695d"
+  }, {
+    "intent": "dua",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Tidak, Gejala Pria",
+    "name": "870038c5-3621-4d36-92fa-a9df12d12e64"
   } ]
 }

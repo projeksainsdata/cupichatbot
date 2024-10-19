@@ -1,0 +1,10 @@
+{
+  "name": "3cd938b7-91ae-44e8-a312-c11b63024917",
+  "displayName": "satu",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

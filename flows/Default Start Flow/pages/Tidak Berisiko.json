@@ -20,6 +20,11 @@
         "text": [ "1️⃣ Bila kakak belum menikah, pertahankan untuk terus abstinen dan fokus mengejar cita-cita ya kak.\n2️⃣ Bila kakak sudah punya pasangan, berusaha tetap setia dengan pasangannya.\n3️⃣ Bila melakukan hubungan seksual berisiko, selalu gunakan kondom.\n4️⃣ Hindari penggunaan obat terlarang, narkoba, dan alkohol karena meningkatkan juga perilaku seksual berisiko." ]
       },
       "languageCode": "id"
+    }, {
+      "text": {
+        "text": [ "Apakah kakak ingin mengulang?\nKetik:\n1. Ya\n2. Tidak" ]
+      },
+      "languageCode": "id"
     } ],
     "nextActionOverride": {
     
@@ -32,7 +37,7 @@
       
       }
     },
-    "targetPage": "Penutup",
+    "targetPage": "IC",
     "name": "adfa4ff1-49a9-451c-8e0c-f42f98069634"
   }, {
     "intent": "Ya",
@@ -41,7 +46,7 @@
       
       }
     },
-    "targetPage": "Penutup",
+    "targetPage": "IC",
     "name": "d8306dad-2f52-4824-944b-37c7db47d3bf"
   }, {
     "intent": "Oke",
@@ -50,5 +55,12 @@
     },
     "targetPage": "Penutup",
     "name": "ec928500-8f23-4179-98fd-1d77be6bf34a"
+  }, {
+    "intent": "Tidak",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Thanks",
+    "name": "5b2e9b45-546f-4654-980c-f45561dfdecd"
   } ]
 }

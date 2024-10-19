@@ -17,7 +17,7 @@
       "languageCode": "id"
     }, {
       "text": {
-        "text": [ "Apakah kakak merasakan (atau pernah) salah satu (atau lebih) gejala diatas? \n(Ya/Tidak)" ]
+        "text": [ "Apakah kakak merasakan (atau pernah) salah satu (atau lebih) gejala diatas? \nKetik:\n1. Ya\n2. Tidak" ]
       },
       "languageCode": "id"
     } ],
@@ -39,5 +39,19 @@
     },
     "targetPage": "Sangat Beresiko",
     "name": "4c8d1d46-25f9-4b33-9b76-db3530068588"
+  }, {
+    "intent": "satu",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Sangat Beresiko",
+    "name": "447d86a2-f23c-4096-ab11-c66f74010df2"
+  }, {
+    "intent": "dua",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Tidak Berisiko",
+    "name": "fe40a299-2f83-4578-9a18-d7c59b4819c7"
   } ]
 }

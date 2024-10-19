@@ -1,0 +1,10 @@
+{
+  "name": "522e6748-71ab-4d42-a7f2-c9dafe8155a1",
+  "displayName": "dua",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

@@ -12,7 +12,7 @@
       "languageCode": "id"
     }, {
       "text": {
-        "text": [ "Apa jenis kelamin kakak?  \n👦 (Laki-laki) / 👧 (Perempuan)" ]
+        "text": [ "Apa jenis kelamin kakak?  \n1. 👦 (Laki-laki) \n2. 👧 (Perempuan)" ]
       },
       "languageCode": "id"
     } ],
@@ -50,5 +50,19 @@
     },
     "targetPage": "Faktor Resiko Wanita",
     "name": "bb9c938c-474c-40e6-b892-d32d3efd9a09"
+  }, {
+    "intent": "satu",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Faktor Resiko Pria",
+    "name": "a96e1a31-a47f-45ea-9723-19e9cca15b9a"
+  }, {
+    "intent": "dua",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Faktor Resiko Wanita",
+    "name": "fa420aed-5ee4-4403-b317-f280797396ae"
   } ]
 }

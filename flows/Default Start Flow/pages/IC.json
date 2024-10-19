@@ -7,7 +7,7 @@
   "entryFulfillment": {
     "messages": [ {
       "text": {
-        "text": [ "Apakah kakak setuju untuk mengikuti penilaian risiko terhadap IMS? ( Ya / Tidak )" ]
+        "text": [ "Apakah kakak setuju untuk mengikuti penilaian risiko terhadap IMS? \nKetik:  \n1.Ya \n2. Tidak" ]
       },
       "languageCode": "id"
     } ],
@@ -29,5 +29,19 @@
     },
     "targetPage": "Thanks",
     "name": "e8a3488c-74f3-4606-8fba-60d201f71c28"
+  }, {
+    "intent": "satu",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Umur",
+    "name": "7d582956-22e4-4fbe-ac9a-beb3430606fe"
+  }, {
+    "intent": "dua",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Thanks",
+    "name": "837f965e-991d-441a-a95c-10a131329a56"
   } ]
 }

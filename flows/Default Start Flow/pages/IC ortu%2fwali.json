@@ -12,7 +12,7 @@
       "languageCode": "id"
     }, {
       "text": {
-        "text": [ "Apakah orang tua/wali kakak menyetujui kakak mengikuti penilaian risiko IMS dari CuPI? ( Ya / Tidak )" ]
+        "text": [ "Apakah orang tua/wali kakak menyetujui kakak mengikuti penilaian risiko IMS dari CuPI? \nKetik:\n1. Ya\n2. Tidak" ]
       },
       "languageCode": "id"
     } ],
@@ -34,5 +34,19 @@
     },
     "targetPage": "Penutup",
     "name": "f7e5506c-9a11-4705-9664-85a6d4b4a285"
+  }, {
+    "intent": "satu",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Jenis Kelamin",
+    "name": "b9b8c8cc-8798-417d-862f-5d7bf082bb6e"
+  }, {
+    "intent": "dua",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Penutup",
+    "name": "a10cd0d1-4d19-4590-84c6-0c2932f3e81b"
   } ]
 }

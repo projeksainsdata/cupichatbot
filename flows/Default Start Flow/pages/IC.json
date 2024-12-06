@@ -7,7 +7,7 @@
   "entryFulfillment": {
     "messages": [ {
       "text": {
-        "text": [ "Apakah kakak setuju untuk mengikuti penilaian risiko terhadap IMS? \nKetik:  \n1.Ya \n2. Tidak" ]
+        "text": [ "Apakah kakak setuju untuk mengikuti penilaian risiko terhadap IMS? \nKetik:  \n1.Ya\n2.Tidak" ]
       },
       "languageCode": "id"
     } ],

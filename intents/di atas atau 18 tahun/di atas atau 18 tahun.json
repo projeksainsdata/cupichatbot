@@ -8,7 +8,10 @@
   }, {
     "id": "date-time",
     "entityType": "@sys.date-time"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
   } ],
   "priority": 500000,
-  "numTrainingPhrases": 52
+  "numTrainingPhrases": 238
 }

@@ -7,24 +7,16 @@
   "entryFulfillment": {
     "messages": [ {
       "text": {
-        "text": [ "Kakak memiliki risiko terhadap penularan IMS, CuPI sarankan:" ]
+        "text": [ "Kakak memiliki risiko terhadap penularan IMS, CuPI sarankan:", "1️⃣ Sebaiknya kakak segera memeriksakan diri pada tenaga kesehatan untuk mendapatkan pemeriksaan lengkap dan pengobatan yang tepat.\n2️⃣ Gunakan selalu kondom ketika berhubungan seksual untuk mencegah penularan IMS selama pengobatan.\n3️⃣ Ajak pasangan seksual untuk pengobatan bersama agar menghindari terjadinya penularan berulang (efek ping-pong).\n4️⃣ Hindari melakukan pengobatan sendiri karena penggunaan obat/antibiotika tanpa pengawasan tenaga profesional bisa membahayakan diri sendiri.\n5️⃣ Hindari hoax atau mitos seputar IMS dan pengobatannya. Tanyakan kebenarannya pada tenaga profesional." ]
       },
-      "languageCode": "id"
+      "languageCode": "id",
+      "channel": "twilio"
     }, {
       "text": {
-        "text": [ "1️⃣ Sebaiknya kakak segera memeriksakan diri pada tenaga kesehatan untuk mendapatkan pemeriksaan lengkap dan pengobatan yang tepat.\n2️⃣ Gunakan selalu kondom ketika berhubungan seksual untuk mencegah penularan IMS selama pengobatan.\n3️⃣ Ajak pasangan seksual untuk pengobatan bersama agar menghindari terjadinya penularan berulang (efek ping-pong).\n4️⃣ Hindari melakukan pengobatan sendiri karena penggunaan obat/antibiotika tanpa pengawasan tenaga profesional bisa membahayakan diri sendiri.\n5️⃣ Hindari hoax atau mitos seputar IMS dan pengobatannya. Tanyakan kebenarannya pada tenaga profesional." ]
+        "text": [ "Untuk fasilitas kesehatan  yang bisa kakak kunjungi, CuPI akan memberikan rekomendasi sesuai tempat tinggal kakak.", "🏠 Dimana tempat tinggal kakak?\n1️⃣ Bandar Lampung (ketik angka 1)\n2️⃣ Metro (ketik angka 2)\n3️⃣ Lampung Selatan (ketik angka 3)\n4️⃣ Lampung Utara (ketik angka 4)\n5️⃣ Lampung Tengah (ketik angka 5)\n6️⃣ Lampung Barat (ketik angka 6)\n7️⃣ Lampung Timur (ketik angka 7)\n8️⃣ Way Kanan (ketik angka 8)\n9️⃣ Tanggamus (ketik angka 9)\n🔟 Pringsewu (ketik angka 10)\n1️⃣1️⃣ Tulang Bawang (ketik angka 11)\n1️⃣2️⃣ Tulang Bawang Barat (ketik angka 12)\n1️⃣3️⃣ Mesuji (ketik angka 13)\n1️⃣4️⃣ Pesawaran (ketik angka 14)\n1️⃣5️⃣ Pesisir Barat (ketik angka 15)" ]
       },
-      "languageCode": "id"
-    }, {
-      "text": {
-        "text": [ "Untuk fasilitas kesehatan  yang bisa kakak kunjungi, CuPI akan memberikan rekomendasi sesuai tempat tinggal kakak. " ]
-      },
-      "languageCode": "id"
-    }, {
-      "text": {
-        "text": [ "🏠 Dimana tempat tinggal kakak?\n1️⃣ Bandar Lampung (ketik angka 1)\n2️⃣ Metro (ketik angka 2)\n3️⃣ Lampung Selatan (ketik angka 3)\n4️⃣ Lampung Utara (ketik angka 4)\n5️⃣ Lampung Tengah (ketik angka 5)\n6️⃣ Lampung Barat (ketik angka 6)\n7️⃣ Lampung Timur (ketik angka 7)\n8️⃣ Way Kanan (ketik angka 8)\n9️⃣ Tanggamus (ketik angka 9)\n🔟 Pringsewu (ketik angka 10)\n1️⃣1️⃣ Tulang Bawang (ketik angka 11)\n1️⃣2️⃣ Tulang Bawang Barat (ketik angka 12)\n1️⃣3️⃣ Mesuji (ketik angka 13)\n1️⃣4️⃣ Pesawaran (ketik angka 14)\n1️⃣5️⃣ Pesisir Barat (ketik angka 15)" ]
-      },
-      "languageCode": "id"
+      "languageCode": "id",
+      "channel": "twilio"
     } ],
     "nextActionOverride": {
     

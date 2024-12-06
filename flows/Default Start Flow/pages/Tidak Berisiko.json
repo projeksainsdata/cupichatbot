@@ -62,5 +62,19 @@
     },
     "targetPage": "Thanks",
     "name": "5b2e9b45-546f-4654-980c-f45561dfdecd"
+  }, {
+    "intent": "satu",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "IC",
+    "name": "a46a2f9a-2596-488e-b7bd-673df731aac8"
+  }, {
+    "intent": "dua",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Thanks",
+    "name": "c425c891-54b5-4911-bc5e-237488b873ba"
   } ]
 }

@@ -7,12 +7,12 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "Hai, namaku CuPI" ]
+          "text": [ "Hai, namaku CuPI. " ]
         },
         "languageCode": "id"
       }, {
         "text": {
-          "text": [ "Selamat Datang di Chatbot untuk Pemeriksaan IMS (infeksi menular seksual)" ]
+          "text": [ "Selamat Datang di Chatbot untuk Pemeriksaan IMS (infeksi menular seksual). " ]
         },
         "languageCode": "id"
       }, {

@@ -7,7 +7,7 @@
   "entryFulfillment": {
     "messages": [ {
       "text": {
-        "text": [ "Apakah kakak ingin mengulang?\nKetik:\n1. Ya\n2. Tidak" ]
+        "text": [ "Silakan menghubungi nomor di atas untuk berkonsultasi lebih jauh dan membuat janji utk berkunjung ya Kak.", "Apakah kakak ingin mengulang?\r\nKetik:\r\n1. Ya\r\n2. Tidak" ]
       },
       "languageCode": "id"
     } ],
@@ -18,17 +18,6 @@
   "transitionRoutes": [ {
     "intent": "Tidak",
     "triggerFulfillment": {
-      "messages": [ {
-        "text": {
-          "text": [ "Terima kasih sudah berkunjung.\nBila kakak merasa terbantu dengan informasi yang CuPI berikan, silahkan sebarkan akun CuPI dan follow channel CuPI untuk informasi terkini seputar IMS." ]
-        },
-        "languageCode": "id"
-      }, {
-        "text": {
-          "text": [ "Salam Hidup Sehat dari CuPI." ]
-        },
-        "languageCode": "id"
-      } ],
       "nextActionOverride": {
       
       }
